@@ -11,6 +11,7 @@
 | [m5stackwol](https://github.com/gallipon/m5stackwol) | raspiwol のマイコン版（Wio Terminal / M5Stack）。ボタン・HTTP API・MQTT の3経路 |
 | [m5atom-clock](https://github.com/gallipon/m5atom-clock) | M5Atom Matrix + 7セグ LED の NTP 時計。人感センサー内蔵。毎時53分は WiFi を切る省電力運用 |
 | [housemonitor](https://github.com/gallipon/housemonitor) | 自宅の温湿度・気圧・在室状況の収集・可視化（Raspberry Pi → PHP API → MySQL → Chart.js） |
+| [tapo-power-monitor](https://github.com/gallipon/tapo-power-monitor) | スマートプラグの消費電力を LAN 内で直接収集し、VPS の自作ダッシュボードで可視化。1分粒度の記録・推定電気代・収集停止の通知（Raspberry Pi → PHP API → MySQL → Chart.js） |
 
 デバイス間の連携:
 
